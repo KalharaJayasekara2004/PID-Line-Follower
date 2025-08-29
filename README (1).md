@@ -18,7 +18,7 @@ This repository contains Arduino code for a **PID Line Follower Robot** using th
 
 ## 🔹 How to Use
 1. Install [BeeLineSensorPro](https://github.com/BeeFactoryLK/BeeLineSensorPro)
-2. Download this repository or clone it.
+2. Download This Library Zip File and Add To Arduino Libraries.
 3. Open `line_follower.ino` in Arduino IDE.
 4. Connect your hardware and upload the code to your Arduino.
 
