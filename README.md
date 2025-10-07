@@ -1,4 +1,6 @@
 # Line Follower Robot (PID Control)
+<img width="634" height="470" alt="Screenshot 2025-10-07 232143" src="https://github.com/user-attachments/assets/031d3b77-207d-4241-998f-ec0a7dc99365" />
+
 
 This repository contains Arduino code for a **PID Line Follower Robot** using the `BeeLineSensorPro` library.
 
